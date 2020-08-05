@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <DebugChecksum>
+        <Checksum>1488018308</Checksum>
+    </DebugChecksum>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <Log_file>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </Log_file>
+    <array_types>
+        <Fmt0>char[10]	1	0</Fmt0>
+        <Fmt1>char[4]	1	0</Fmt1>
+        <Fmt2>char[6]	1	0</Fmt2>
+        <Fmt3>uint8_t[255]	3	0</Fmt3>
+    </array_types>
+    <watch_formats>
+        <Fmt0>{W}42:Rx_Buffer[0]	1	0</Fmt0>
+        <Fmt1>{W}42:Rx_Buffer[1]	1	0</Fmt1>
+        <Fmt2>{W}42:Rx_Buffer[2]	1	0</Fmt2>
+        <Fmt3>{W}42:Rx_Buffer[3]	1	0</Fmt3>
+        <Fmt4>{W}42:Rx_Buffer[4]	3	0</Fmt4>
+        <Fmt5>{W}42:Tx_Buffer[0]	1	0</Fmt5>
+        <Fmt6>{W}42:Tx_Buffer[10]	1	0</Fmt6>
+        <Fmt7>{W}42:Tx_Buffer[11]	1	0</Fmt7>
+        <Fmt8>{W}42:Tx_Buffer[12]	3	0</Fmt8>
+        <Fmt9>{W}42:Tx_Buffer[13]	3	0</Fmt9>
+        <Fmt10>{W}42:Tx_Buffer[14]	3	0</Fmt10>
+        <Fmt11>{W}42:Tx_Buffer[1]	3	0</Fmt11>
+        <Fmt12>{W}42:Tx_Buffer[2]	3	0</Fmt12>
+        <Fmt13>{W}42:Tx_Buffer[3]	1	0</Fmt13>
+        <Fmt14>{W}42:Tx_Buffer[4]	1	0</Fmt14>
+        <Fmt15>{W}42:Tx_Buffer[5]	1	0</Fmt15>
+        <Fmt16>{W}42:Tx_Buffer[6]	1	0</Fmt16>
+        <Fmt17>{W}42:Tx_Buffer[7]	3	0</Fmt17>
+        <Fmt18>{W}42:Tx_Buffer[8]	1	0</Fmt18>
+        <Fmt19>{W}42:Tx_Buffer[9]	1	0</Fmt19>
+        <Fmt20>{W}42:Tx_Idx	3	0</Fmt20>
+        <Fmt21>{W}42:bk_val0	3	0</Fmt21>
+        <Fmt22>{W}42:bk_val1	3	0</Fmt22>
+        <Fmt23>{W}42:bk_val2	3	0</Fmt23>
+        <Fmt24>{W}42:btn_input	3	0</Fmt24>
+        <Fmt25>{W}42:btn_pair	3	0</Fmt25>
+        <Fmt26>{W}42:btn_save	3	0</Fmt26>
+        <Fmt27>{W}42:cnt	3	0</Fmt27>
+        <Fmt28>{W}42:en1	1	0</Fmt28>
+        <Fmt29>{W}42:en2	1	0</Fmt29>
+        <Fmt30>{W}42:en3	1	0</Fmt30>
+        <Fmt31>{W}42:en4	1	0</Fmt31>
+        <Fmt32>{W}42:led_7seg_data	4	0</Fmt32>
+        <Fmt33>{W}42:led_group_1_state	1	0</Fmt33>
+        <Fmt34>{W}42:led_group_2_state	1	0</Fmt34>
+        <Fmt35>{W}42:led_group_3_state	1	0</Fmt35>
+        <Fmt36>{W}42:led_group_4_state	1	0</Fmt36>
+        <Fmt37>{W}42:led_stt_595_data	4	0</Fmt37>
+        <Fmt38>{W}42:left_rotary_cnt_up	3	0</Fmt38>
+        <Fmt39>{W}42:mic1_rotary_encoder.current_volume	3	0</Fmt39>
+        <Fmt40>{W}42:mic2_rotary_encoder.current_volume	3	0</Fmt40>
+        <Fmt41>{W}42:music_rotary_encoder.current_volume	3	0</Fmt41>
+        <Fmt42>{W}42:right_rotary_cnt_up	3	0</Fmt42>
+        <Fmt43>{W}42:timer1_interrupt_flag	3	0</Fmt43>
+    </watch_formats>
+    <DataSample>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+    </DataSample>
+    <Breakpoints>
+        <Bp0>_ "STD_DATA" "Rx_Buffer[0]" 0 0 0 3 0 "" 0 ""</Bp0>
+        <Bp1>_ "STD_CODE" "{$PROJ_DIR$\..\led_display.c}.2.1" 0 0 0 0 "" 0 ""</Bp1>
+        <Bp2>_ "STD_CODE" "{$PROJ_DIR$\STM8S208\List\Project.map}.1.1" 0 0 0 0 "" 0 ""</Bp2>
+        <Bp3>_ "STD_CODE" "{$PROJ_DIR$\..\rotary_encoder.c}.1.1" 0 0 0 0 "" 0 ""</Bp3>
+        <Count>4</Count>
+    </Breakpoints>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <Aliases>
+        <A0>_ "C:\STM8S\Project_stm8s\fdgf\main.c" "C:\STM8S\Project_stm8s\i2c_Slave\main.c"</A0>
+        <A1>_ "D:\MM8\CODE\MM8_front_panel - V2 - 18012019\main.c" ""</A1>
+        <A2>_ "D:\SOFTWARE\MM8_front_panel\StdPeriph_Driver\src\stm8s_gpio.c" ""</A2>
+        <A3>_ "E:\esp32_project\i2c_Slave_fixrun\StdPeriph_Driver\src\stm8s_i2c.c" ""</A3>
+        <A4>_ "E:\esp32_project\i2c_Slave_fixrun\StdPeriph_Driver\src\stm8s_tim1.c" ""</A4>
+        <Count>5</Count>
+        <SuppressDialog>1</SuppressDialog>
+    </Aliases>
+    <DebuggerSettings>
+        <DisableInterruptsWhenStepping>0</DisableInterruptsWhenStepping>
+        <LeaveTargetRunning>0</LeaveTargetRunning>
+    </DebuggerSettings>
+</settings>

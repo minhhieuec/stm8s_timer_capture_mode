@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"debug.h": "c",
+			"stm8s.h": "c",
+			"stm8s_conf.h": "c",
+			"main.h": "c"
+		}
+	}
+}

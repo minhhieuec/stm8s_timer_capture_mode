@@ -1,0 +1,23 @@
+stm8s_gpio.pbi: \
+  E:\GITHUB\stm8s_timer_capture_mode\StdPeriph_Driver\src\stm8s_gpio.c \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_gpio.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc/stm8s.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\stm8s_conf.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_adc1.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_awu.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_beep.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_clk.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_exti.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_flash.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_i2c.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_itc.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_iwdg.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_rst.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_spi.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_tim1.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_tim2.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_tim4.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_uart1.h \
+  E:\GITHUB\stm8s_timer_capture_mode\EWSTM8\..\StdPeriph_Driver\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h
